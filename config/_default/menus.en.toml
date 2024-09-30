@@ -9,13 +9,6 @@ identifier = "KlGd9ORDzx"
 weight = 9999
 
 [[main]]
-name = "Blog"
-pre = ""
-pageRef = "posts"
-identifier = "uTIhfrwci6"
-weight = 9999
-
-[[main]]
 name = "Game jam Projects"
 pageRef = "gamejam projects"
 identifier = "1oa2nDh8De"
