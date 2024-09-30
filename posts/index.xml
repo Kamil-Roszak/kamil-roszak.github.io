@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Kamil Roszak</title><link>/posts/</link><description>Recent content in Posts on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Shader Conway's Game of Life</title><link>/posts/1727652704089-shader-conways-game-of-life/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>/posts/1727652704089-shader-conways-game-of-life/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/1727652704089-shader-conways-game-of-life/featured.png"/></item><item><title>making-soft-body-in-Unity</title><link>/posts/1727101946338-making-soft-body-in-unity/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate><guid>/posts/1727101946338-making-soft-body-in-unity/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/1727101946338-making-soft-body-in-unity/featured.png"/></item></channel></rss>

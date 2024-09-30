@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/personal-projects/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/personal-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenXR VRM Puppet Animator</title><link>/personal-projects/1727103997843-puppet-animator/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><guid>/personal-projects/1727103997843-puppet-animator/</guid><description>&lt;h2 class="relative group">OpenXR and VRM Experiment in Unity
+&lt;div id="openxr-and-vrm-experiment-in-unity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#openxr-and-vrm-experiment-in-unity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This project was an experiment using OpenXR in Unity along with the open VRM format to position virtual avatars (like dolls) in VR space. In the application, you could load a character from a VRM file, set its position using inverse kinematics (IK), and assign animations—all natively on the Oculus Quest.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/personal-projects/1727103997843-puppet-animator/featured.png"/></item><item><title>MVC Pattern and Snake</title><link>/personal-projects/1727103417339-unity-mvc-snake/</link><pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate><guid>/personal-projects/1727103417339-unity-mvc-snake/</guid><description>&lt;h2 class="relative group">Using the MVP Pattern in Unity for the Snake Game
+&lt;div id="using-the-mvp-pattern-in-unity-for-the-snake-game" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#using-the-mvp-pattern-in-unity-for-the-snake-game" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is a very old project of mine (created over 6 years ago in my free time) where I used the MVC pattern to represent the game board in Snake. The code is still available on GitHub and you can take a look at it - I just want to point out that now I would definitely write it much, much better :)
+&lt;a id="github-5c20817971eca96368928ba69b305c31" target="_blank" href="https://github.com/KRUnityDev/Unity_MVC_Snake" class="cursor-pointer">
+&lt;div
+class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
+&lt;div class="flex items-center">
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;">
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;div
+id="github-5c20817971eca96368928ba69b305c31-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
+KRUnityDev/Unity_MVC_Snake
+&lt;/div>
+&lt;/div>
+&lt;p id="github-5c20817971eca96368928ba69b305c31-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+Snake made in Unity using MVC Pattern
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/personal-projects/1727103417339-unity-mvc-snake/featured.png"/></item><item><title>Procedural Planet Generator</title><link>/personal-projects/1727103437739-planet-generator/</link><pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate><guid>/personal-projects/1727103437739-planet-generator/</guid><description>&lt;h2 class="relative group">Planet Generator: A Lost but Memorable Early Project
+&lt;div id="planet-generator-a-lost-but-memorable-early-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#planet-generator-a-lost-but-memorable-early-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is definitely one of my oldest projects, which unfortunately got lost with only a few screenshots remaining. However, it&amp;rsquo;s significant enough that I want to write about it. It was a planet generator I was developing for a space exploration survival game. Back then, I didn&amp;rsquo;t realize how massive a challenge creating such a game would be, but I learned a lot from the experience.
+The generator was able to create a height map, generate sphere geometry, subdivide and refine it, and place points based on the height map. It could also recursively split the sphere into smaller chunks.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/personal-projects/1727103437739-planet-generator/featured.png"/></item></channel></rss>

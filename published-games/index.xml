@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/published-games/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/published-games/index.xml" rel="self" type="application/rss+xml"/><item><title>Toast It!</title><link>/published-games/1727630854751-toast-it/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>/published-games/1727630854751-toast-it/</guid><description>&lt;h2 class="relative group">Toast It! – A Hyper Casual Game Jam Project
+&lt;div id="toast-it--a-hyper-casual-game-jam-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#toast-it--a-hyper-casual-game-jam-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Toast It! was a project created during the Hyper Casual Game Jam in 2020. Our project and team were noticed by Orbital Knight, and with their support, we developed the game into a prototype, which went through testing all the way to the MVP stage and was tested on the Voodoo publishing platform.
+Unfortunately, we were unable to achieve the necessary stats to qualify for publishing support from Voodoo. As a result, we decided to fix the remaining bugs and release the app on Google Play and Voodoo independently.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/published-games/1727630854751-toast-it/featured.png"/></item><item><title>Ami Opowiada Mobile Game</title><link>/published-games/1727103498202-ami-opowiada/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/published-games/1727103498202-ami-opowiada/</guid><description>&lt;h2 class="relative group">&amp;ldquo;Ami Opowiada&amp;rdquo; – My First Major Google Play Release
+&lt;div id="ami-opowiada--my-first-major-google-play-release" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ami-opowiada--my-first-major-google-play-release" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+srcset="
+/published-games/1727103498202-ami-opowiada/chart_hu17863571059578715223.png 330w,
+/published-games/1727103498202-ami-opowiada/chart_hu10983268789170101545.png 660w,
+/published-games/1727103498202-ami-opowiada/chart_hu14448190990856830594.png 1024w,
+/published-games/1727103498202-ami-opowiada/chart_hu10471439381189443804.png 2x"
+src="/published-games/1727103498202-ami-opowiada/chart_hu10983268789170101545.png"
+alt="chart"
+/>
+&lt;figcaption>Game instalations&lt;/figcaption>
+&lt;/figure>
+&amp;ldquo;Ami Opowiada&amp;rdquo; was my first significant app release on Google Play. It was a platformer that told the story of Ami, who traveled through fantastical lands. The game achieved over 54,000 unique installs, received positive reviews, and generated a substantial amount of revenue through ads. Although the game is no longer available to players for various reasons, and I no longer support it, it was a fascinating project.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/published-games/1727103498202-ami-opowiada/featured.png"/></item><item><title>Bomberman</title><link>/published-games/1727102099600-bomberman/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/published-games/1727102099600-bomberman/</guid><description>&lt;h2 class="relative group">Our First Steps in Game Development: Bomberman in SFML
+&lt;div id="our-first-steps-in-game-development-bomberman-in-sfml" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#our-first-steps-in-game-development-bomberman-in-sfml" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Years ago, together with a group of friends, we formed a team with the goal of learning programming and game development. One of our first major projects was a Bomberman implementation in SFML, which we successfully completed from start to finish.
+Check more at &lt;a href="https://github.com/PiGames/Bomberman" target="_blank">Github Page&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/published-games/1727102099600-bomberman/featured.png"/></item><item><title>Land It!</title><link>/published-games/1727633156684-land-it/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/published-games/1727633156684-land-it/</guid><description>&lt;h2 class="relative group">My Second Google Play Release: Land It!
+&lt;div id="my-second-google-play-release-land-it" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#my-second-google-play-release-land-it" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This was my second game released on Google Play. It featured a few levels where the goal was to land a rocket by controlling its left and right thrusters.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/published-games/1727633156684-land-it/featured.png"/></item></channel></rss>
