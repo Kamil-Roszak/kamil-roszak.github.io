@@ -1,0 +1,13 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Kamil Roszak"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "About me & blog & portfolio site"
+dateFormat = "2 January 2006"
+author = { name = "Kamil Roszak", image = "profile.png", headline = "Software Developer interested in cool projects regardless of technology", bio = "I started my adventure with software development many many years ago with C++ and SFML. Currently I mainly focus on C++, C# and Unity" }
+

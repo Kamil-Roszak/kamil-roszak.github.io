@@ -1,0 +1,1 @@
+Here you can find some of the more noteworthy experiments I’ve worked on in my free time. There’s still a lot more, and I plan to update the list. If you're curious about anything I've worked on before, feel free to ask via email! :)

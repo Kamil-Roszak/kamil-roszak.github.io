@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kamil Roszak</title>
+    <link>//localhost:1313/gamejam-projects/</link>
+    <description>Recent content on Kamil Roszak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Kamil Roszak</copyright>
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/gamejam-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy DictatorShip</title>
+      <link>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;GameJam Project: Smile or Perish 
+    &lt;div id=&#34;gamejam-project-smile-or-perish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gamejam-project-smile-or-perish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This was a GameJam project at Poznan University of Technology, combining machine learning with Unity. The premise of the game is simple: the player lives in a world where the political doctrine forbids showing negative emotions. The player&amp;rsquo;s task is to smile at the right moments—literally smile. The game incorporates OpenSeeFace for facial tracking using a webcam, integrated with the gameplay.
+&lt;a href=&#34;https://globalgamejam.org/games/2024/happy-dictatorship-4-0&#34; target=&#34;_blank&#34;&gt;GameLink&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/featured.png" />
+    </item>
+    
+    <item>
+      <title>Suppliers</title>
+      <link>//localhost:1313/gamejam-projects/1727631754977-suppliers/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1727631754977-suppliers/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Suppliers: A United with Ukraine Game Jam Project 
+    &lt;div id=&#34;suppliers-a-united-with-ukraine-game-jam-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#suppliers-a-united-with-ukraine-game-jam-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /gamejam-projects/1727631754977-suppliers/map_hu419341470211724865.png 330w,
+        /gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png 660w,
+        /gamejam-projects/1727631754977-suppliers/map_hu14623559696183776364.png 1024w,
+        /gamejam-projects/1727631754977-suppliers/map_hu9145317411182095104.png 2x&#34;
+        src=&#34;//localhost:1313/gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png&#34;
+        alt=&#34;map&#34;
+      /&gt;
+      &lt;figcaption&gt;Gameplay&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+Suppliers is a game created by me and my friends as part of the United with Ukraine Game Jam, which aimed to develop projects centered around Ukraine and its role in Europe. In the game we created, the player&amp;rsquo;s goal is to manage resources produced in various European countries (based on their real-world strengths) and strategically allocate them to achieve the final objective.
+
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /gamejam-projects/1727631754977-suppliers/map2_hu5512045994619122746.png 330w,
+        /gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png 660w,
+        /gamejam-projects/1727631754977-suppliers/map2_hu10826658823572908249.png 1024w,
+        /gamejam-projects/1727631754977-suppliers/map2_hu12515489388937749579.png 2x&#34;
+        src=&#34;//localhost:1313/gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png&#34;
+        alt=&#34;map2&#34;
+      /&gt;
+      &lt;figcaption&gt;Gameplay&lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1727631754977-suppliers/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

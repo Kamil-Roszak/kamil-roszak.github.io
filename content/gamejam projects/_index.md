@@ -1,0 +1,1 @@
+I've already participated in over 10 game jams, and here are some interesting projects worth writing about:
