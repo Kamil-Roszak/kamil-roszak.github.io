@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/gamejam-projects/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/gamejam-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Happy DictatorShip</title><link>/gamejam-projects/1727631161834-happy-dictatorship/</link><pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate><guid>/gamejam-projects/1727631161834-happy-dictatorship/</guid><description>&lt;h2 class="relative group">GameJam Project: Smile or Perish
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/gamejam-projects/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/gamejam-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Happy DictatorShip</title><link>/gamejam-projects/1727631161834-happy-dictatorship/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/gamejam-projects/1727631161834-happy-dictatorship/</guid><description>&lt;h2 class="relative group">GameJam Project: Smile or Perish
 &lt;div id="gamejam-project-smile-or-perish" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -7,7 +7,7 @@ style="text-decoration-line: none !important;" href="#gamejam-project-smile-or-p
 &lt;/span>
 &lt;/h2>
 &lt;p>This was a GameJam project at Poznan University of Technology, combining machine learning with Unity. The premise of the game is simple: the player lives in a world where the political doctrine forbids showing negative emotions. The player&amp;rsquo;s task is to smile at the right moments—literally smile. The game incorporates OpenSeeFace for facial tracking using a webcam, integrated with the gameplay.
-&lt;a href="https://globalgamejam.org/games/2024/happy-dictatorship-4-0" target="_blank">GameLink&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1727631161834-happy-dictatorship/featured.png"/></item><item><title>Suppliers</title><link>/gamejam-projects/1727631754977-suppliers/</link><pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate><guid>/gamejam-projects/1727631754977-suppliers/</guid><description>&lt;h2 class="relative group">Suppliers: A United with Ukraine Game Jam Project
+&lt;a href="https://globalgamejam.org/games/2024/happy-dictatorship-4-0" target="_blank">GameLink&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1727631161834-happy-dictatorship/featured.png"/></item><item><title>United With Ukraine Gamejam 2022</title><link>/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/</link><pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/</guid><description>&lt;h2 class="relative group">Suppliers: A United with Ukraine Game Jam Project
 &lt;div id="suppliers-a-united-with-ukraine-game-jam-project" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -17,32 +17,257 @@ style="text-decoration-line: none !important;" href="#suppliers-a-united-with-uk
 &lt;/h2>
 &lt;p>
 &lt;figure>
-&lt;img
-class="my-0 rounded-md"
-loading="lazy"
-srcset="
-/gamejam-projects/1727631754977-suppliers/map_hu419341470211724865.png 330w,
-/gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png 660w,
-/gamejam-projects/1727631754977-suppliers/map_hu14623559696183776364.png 1024w,
-/gamejam-projects/1727631754977-suppliers/map_hu9145317411182095104.png 2x"
-src="/gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png"
-alt="map"
-/>
+&lt;img class="my-0 rounded-md" loading="lazy" src="map.png" alt="map" />
 &lt;figcaption>Gameplay&lt;/figcaption>
 &lt;/figure>
 Suppliers is a game created by me and my friends as part of the United with Ukraine Game Jam, which aimed to develop projects centered around Ukraine and its role in Europe. In the game we created, the player&amp;rsquo;s goal is to manage resources produced in various European countries (based on their real-world strengths) and strategically allocate them to achieve the final objective.
 &lt;figure>
-&lt;img
-class="my-0 rounded-md"
-loading="lazy"
-srcset="
-/gamejam-projects/1727631754977-suppliers/map2_hu5512045994619122746.png 330w,
-/gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png 660w,
-/gamejam-projects/1727631754977-suppliers/map2_hu10826658823572908249.png 1024w,
-/gamejam-projects/1727631754977-suppliers/map2_hu12515489388937749579.png 2x"
-src="/gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png"
-alt="map2"
-/>
+&lt;img class="my-0 rounded-md" loading="lazy" src="map2.png" alt="map2" />
 &lt;figcaption>Gameplay&lt;/figcaption>
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1727631754977-suppliers/featured.png"/></item></channel></rss>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/featured.png"/></item><item><title>0h Gamejam on the Tram 2024</title><link>/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/featured.png"/></item><item><title>Copernicus Game Jam</title><link>/gamejam-projects/1730120393869-copernicus-game-jam/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120393869-copernicus-game-jam/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120393869-copernicus-game-jam/featured.png"/></item><item><title>GlobalGameJam 2022</title><link>/gamejam-projects/1730120700217-globalgamejam-2022/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120700217-globalgamejam-2022/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120700217-globalgamejam-2022/featured.png"/></item><item><title>GlobalGameJam 2023</title><link>/gamejam-projects/1730120692489-globalgamejam-2023/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120692489-globalgamejam-2023/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120692489-globalgamejam-2023/featured.png"/></item><item><title>GlobalGameJam 2024</title><link>/gamejam-projects/1730120320718-globalgamejam-2024/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120320718-globalgamejam-2024/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120320718-globalgamejam-2024/featured.png"/></item><item><title>Mermaid Gamejam 2024</title><link>/gamejam-projects/1730120338159-mermaid-gamejam-2024/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120338159-mermaid-gamejam-2024/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120338159-mermaid-gamejam-2024/featured.png"/></item><item><title>XR GameJam 2024</title><link>/gamejam-projects/1730120307808-xr-gamejam-2024/</link><pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate><guid>/gamejam-projects/1730120307808-xr-gamejam-2024/</guid><description>&lt;p>an example to get you started&lt;/p>
+&lt;h1 class="relative group">This is a heading
+&lt;div id="this-is-a-heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">This is a subheading
+&lt;div id="this-is-a-subheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">This is a subsubheading
+&lt;div id="this-is-a-subsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">This is a subsubsubheading
+&lt;div id="this-is-a-subsubsubheading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#this-is-a-subsubsubheading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>This is a paragraph with &lt;strong>bold&lt;/strong> and &lt;em>italic&lt;/em> text.
+Check more at &lt;a href="https://blowfish.page/" target="_blank">Blowfish documentation&lt;/a>
+undefined&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/gamejam-projects/1730120307808-xr-gamejam-2024/featured.png"/></item></channel></rss>

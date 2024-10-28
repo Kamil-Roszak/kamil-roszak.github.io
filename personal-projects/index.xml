@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/personal-projects/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/personal-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenXR VRM Puppet Animator</title><link>/personal-projects/1727103997843-puppet-animator/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><guid>/personal-projects/1727103997843-puppet-animator/</guid><description>&lt;h2 class="relative group">OpenXR and VRM Experiment in Unity
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kamil Roszak</title><link>/personal-projects/</link><description>Recent content on Kamil Roszak</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Kamil Roszak</copyright><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/personal-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>XRsemble</title><link>/personal-projects/1730120839783-xrsemble/</link><pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate><guid>/personal-projects/1730120839783-xrsemble/</guid><description>&lt;h2 class="relative group">About The Project
+&lt;div id="about-the-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about-the-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nowadays, more and more XR devices are emerging, and the market is shifting toward devices priced reasonably for everyday consumers.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/personal-projects/1730120839783-xrsemble/featured.png"/></item><item><title>OpenXR VRM Puppet Animator</title><link>/personal-projects/1727103997843-puppet-animator/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><guid>/personal-projects/1727103997843-puppet-animator/</guid><description>&lt;h2 class="relative group">OpenXR and VRM Experiment in Unity
 &lt;div id="openxr-and-vrm-experiment-in-unity" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
