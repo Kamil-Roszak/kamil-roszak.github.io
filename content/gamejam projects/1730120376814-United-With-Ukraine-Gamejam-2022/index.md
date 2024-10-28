@@ -1,9 +1,9 @@
 ---
-title: "Suppliers"
+title: "United With Ukraine Gamejam 2022"
 date: 2022-08-08
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["gamejam"]
 ---
 ## Suppliers: A United with Ukraine Game Jam Project
 ![map](map.png "Gameplay")

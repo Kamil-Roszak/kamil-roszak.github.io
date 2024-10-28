@@ -9,13 +9,13 @@ identifier = "KlGd9ORDzx"
 weight = 9999
 
 [[main]]
-name = "Game jam Projects"
+name = "Gamejams / Hackatons"
 pageRef = "gamejam projects"
 identifier = "1oa2nDh8De"
 weight = 9999
 
 [[main]]
-name = "Published games"
+name = "Published Games / Apps"
 pageRef = "published games"
 identifier = "zflo0ufXff"
 weight = 9999

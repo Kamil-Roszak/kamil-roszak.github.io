@@ -7,11 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Kamil Roszak</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XRsemble</title>
+      <link>//localhost:1313/personal-projects/1730120839783-xrsemble/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/personal-projects/1730120839783-xrsemble/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;About The Project 
+    &lt;div id=&#34;about-the-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-the-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Nowadays, more and more XR devices are emerging, and the market is shifting toward devices priced reasonably for everyday consumers.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-projects/1730120839783-xrsemble/featured.png" />
+    </item>
+    
     <item>
       <title>Happy DictatorShip</title>
       <link>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</link>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;GameJam Project: Smile or Perish 
@@ -30,11 +50,11 @@
     </item>
     
     <item>
-      <title>Suppliers</title>
-      <link>//localhost:1313/gamejam-projects/1727631754977-suppliers/</link>
+      <title>United With Ukraine Gamejam 2022</title>
+      <link>//localhost:1313/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/gamejam-projects/1727631754977-suppliers/</guid>
+      <guid>//localhost:1313/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Suppliers: A United with Ukraine Game Jam Project 
     &lt;div id=&#34;suppliers-a-united-with-ukraine-game-jam-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -47,38 +67,18 @@
 &lt;/h2&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img
-        class=&#34;my-0 rounded-md&#34;
-        loading=&#34;lazy&#34;
-        srcset=&#34;
-        /gamejam-projects/1727631754977-suppliers/map_hu419341470211724865.png 330w,
-        /gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png 660w,
-        /gamejam-projects/1727631754977-suppliers/map_hu14623559696183776364.png 1024w,
-        /gamejam-projects/1727631754977-suppliers/map_hu9145317411182095104.png 2x&#34;
-        src=&#34;//localhost:1313/gamejam-projects/1727631754977-suppliers/map_hu12295071823402560147.png&#34;
-        alt=&#34;map&#34;
-      /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;map.png&#34; alt=&#34;map&#34; /&gt;
       &lt;figcaption&gt;Gameplay&lt;/figcaption&gt;
     &lt;/figure&gt;
 
 Suppliers is a game created by me and my friends as part of the United with Ukraine Game Jam, which aimed to develop projects centered around Ukraine and its role in Europe. In the game we created, the player&amp;rsquo;s goal is to manage resources produced in various European countries (based on their real-world strengths) and strategically allocate them to achieve the final objective.
 
     &lt;figure&gt;
-      &lt;img
-        class=&#34;my-0 rounded-md&#34;
-        loading=&#34;lazy&#34;
-        srcset=&#34;
-        /gamejam-projects/1727631754977-suppliers/map2_hu5512045994619122746.png 330w,
-        /gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png 660w,
-        /gamejam-projects/1727631754977-suppliers/map2_hu10826658823572908249.png 1024w,
-        /gamejam-projects/1727631754977-suppliers/map2_hu12515489388937749579.png 2x&#34;
-        src=&#34;//localhost:1313/gamejam-projects/1727631754977-suppliers/map2_hu4678748812854095298.png&#34;
-        alt=&#34;map2&#34;
-      /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;map2.png&#34; alt=&#34;map2&#34; /&gt;
       &lt;figcaption&gt;Gameplay&lt;/figcaption&gt;
     &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1727631754977-suppliers/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/featured.png" />
     </item>
     
     <item>
@@ -263,6 +263,433 @@ Check more at &lt;a href=&#34;https://github.com/PiGames/Bomberman&#34; target=&
 &lt;p&gt;This is definitely one of my oldest projects, which unfortunately got lost with only a few screenshots remaining. However, it&amp;rsquo;s significant enough that I want to write about it. It was a planet generator I was developing for a space exploration survival game. Back then, I didn&amp;rsquo;t realize how massive a challenge creating such a game would be, but I learned a lot from the experience.
 The generator was able to create a height map, generate sphere geometry, subdivide and refine it, and place points based on the height map. It could also recursively split the sphere into smaller chunks.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-projects/1727103437739-planet-generator/featured.png" />
+    </item>
+    
+    <item>
+      <title>0h Gamejam on the Tram 2024</title>
+      <link>//localhost:1313/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120647610-0h-gamejam-on-the-tram-2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>Copernicus Game Jam</title>
+      <link>//localhost:1313/gamejam-projects/1730120393869-copernicus-game-jam/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120393869-copernicus-game-jam/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120393869-copernicus-game-jam/featured.png" />
+    </item>
+    
+    <item>
+      <title>GlobalGameJam 2022</title>
+      <link>//localhost:1313/gamejam-projects/1730120700217-globalgamejam-2022/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120700217-globalgamejam-2022/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120700217-globalgamejam-2022/featured.png" />
+    </item>
+    
+    <item>
+      <title>GlobalGameJam 2023</title>
+      <link>//localhost:1313/gamejam-projects/1730120692489-globalgamejam-2023/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120692489-globalgamejam-2023/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120692489-globalgamejam-2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>GlobalGameJam 2024</title>
+      <link>//localhost:1313/gamejam-projects/1730120320718-globalgamejam-2024/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120320718-globalgamejam-2024/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120320718-globalgamejam-2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mermaid Gamejam 2024</title>
+      <link>//localhost:1313/gamejam-projects/1730120338159-mermaid-gamejam-2024/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120338159-mermaid-gamejam-2024/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120338159-mermaid-gamejam-2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>XR GameJam 2024</title>
+      <link>//localhost:1313/gamejam-projects/1730120307808-xr-gamejam-2024/</link>
+      <pubDate>Thu, 28 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/gamejam-projects/1730120307808-xr-gamejam-2024/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;This is a heading 
+    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading 
+    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading 
+    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+
+
+&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading 
+    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
+Check more at &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish documentation&lt;/a&gt;
+undefined&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/gamejam-projects/1730120307808-xr-gamejam-2024/featured.png" />
     </item>
     
   </channel>

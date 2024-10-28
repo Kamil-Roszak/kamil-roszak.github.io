@@ -4,37 +4,73 @@
 
   <url>
     <loc>//localhost:1313/gamejam-projects/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gamejam-projects/1730120393869-copernicus-game-jam/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/example/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/gamejam-projects/1730120320718-globalgamejam-2024/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gamejam-projects/1730120338159-mermaid-gamejam-2024/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/tag/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gamejam-projects/1730120376814-united-with-ukraine-gamejam-2022/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gamejam-projects/1730120307808-xr-gamejam-2024/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gamejam-projects/1727631161834-happy-dictatorship/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/opensource/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
