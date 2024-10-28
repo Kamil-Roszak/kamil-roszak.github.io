@@ -3,7 +3,7 @@ title: "Ami Opowiada Mobile Game"
 date: 2017-01-01
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["android"]
 ---
 
 ## "Ami Opowiada" – My First Major Google Play Release
